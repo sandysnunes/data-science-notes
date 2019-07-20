@@ -1,1 +1,1 @@
-# data-science-notes
+# My notes about Data Science
