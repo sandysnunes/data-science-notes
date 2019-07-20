@@ -15,6 +15,8 @@
 
 [D3](https://d3js.org/)
 
+[Seaborn](https://seaborn.pydata.org/)
+
 [Flink](https://flink.apache.org/)
 
 [Pandas](https://pandas.pydata.org/)
@@ -31,7 +33,7 @@
 
 ## Snippets
 
-##### Spark and Jupytrer
+##### Jupyter (Spark, scala, python, R)
 ```shell script
 docker run --rm \
 -p 8888:8888 \
@@ -44,6 +46,18 @@ jupyter/all-spark-notebook
 
 ```shell script
 
-docker run --rm -v ~:/home/jovyan/work -p 8888:8888 jupyter/pyspark-notebook
+docker run --rm \
+-v ~:/home/jovyan/work \
+-p 8888:8888 \
+-p 4040:4040 \
+-p 4041:4041 \
+jupyter/pyspark-notebook
+```
 
+```python
+import pyspark 
+sc = pyspark.SparkContext('local[*]')
+# do something to prove it works
+rdd = sc.parallelize(range(1000))
+rdd.takeSample(False, 5)
 ```
