@@ -33,15 +33,7 @@
 
 ## Snippets
 
-##### Jupyter (Spark, scala, python, R)
-```shell script
-docker run --rm \
--p 8888:8888 \
--p 4040:4040 \
--p 4041:4041 \
--v ~:/home/jovyan/work \
-jupyter/all-spark-notebook
-```
+##### Jupyter - Pyspark
 
 
 ```shell script
@@ -55,8 +47,11 @@ jupyter/pyspark-notebook
 ```
 
 ```python
+
 import pyspark 
+
 sc = pyspark.SparkContext('local[*]')
+
 # do something to prove it works
 rdd = sc.parallelize(range(1000))
 rdd.takeSample(False, 5)
