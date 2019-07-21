@@ -27,6 +27,8 @@
 
 [Jupyter](https://jupyter.org/)
 
+[Jupyter Docker Images](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
+
 [Scikit-learn](https://scikit-learn.org/)
 
 [Numpy](https://numpy.org/)
