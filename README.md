@@ -3,37 +3,22 @@
 
 ## Frameworks, Tools and libraries
 
-[Apache Hadoop](https://hadoop.apache.org/)
-
-[Apache Spark](https://spark.apache.org/)
-
-[D3](https://d3js.org/)
-
-[Flink](https://flink.apache.org/)
-
-[ggplot](http://ggplot.yhathq.com/)
-
-[Jupyter Docker Images](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
-
-[Jupyter](https://jupyter.org/)
-
-[Kaggle](https://www.kaggle.com/)
-
-[Matplotlib](https://matplotlib.org/)
-
-[Numpy](https://numpy.org/)
-
-[Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
-
-[Pandas](https://pandas.pydata.org/)
-
-[r-project](https://www.r-project.org/)
-
-[Scikit-learn](https://scikit-learn.org/)
-
-[SciPy](https://www.scipy.org/)
-
-[Seaborn](https://seaborn.pydata.org/)
+- [Apache Hadoop](https://hadoop.apache.org/)
+- [Apache Spark](https://spark.apache.org/)
+- [D3](https://d3js.org/)
+- [Flink](https://flink.apache.org/)
+- [ggplot](http://ggplot.yhathq.com/)
+- [Jupyter Docker Images](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
+- [Jupyter](https://jupyter.org/)
+- [Kaggle](https://www.kaggle.com/)
+- [Matplotlib](https://matplotlib.org/)
+- [Numpy](https://numpy.org/)
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
+- [Pandas](https://pandas.pydata.org/)
+- [r-project](https://www.r-project.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+- [SciPy](https://www.scipy.org/)
+- [Seaborn](https://seaborn.pydata.org/)
 
 
 ## Snippets
@@ -99,6 +84,28 @@ rdd.takeSample(False, 5)
   - [**All Cheat Sheets(PDF)**](https://github.com/sandysnunes/data-science-notes/blob/master/All%20Cheat%20Sheets.pdf)<br>
 
 ## Notebooks
+
+## GitHub Repos
+
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) 
+- [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources) 
+- [Data science blogs](https://github.com/rushter/data-science-blogs) 
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 
+- [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses) 
+- [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes) 
+- [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) 
+- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) 
+- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) 
+- [Learn Data Science open resources](https://github.com/nborwankar/LearnDataScience) 
+- [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books) 
+- [General Assembly's Data Science course materials](https://github.com/justmarkham/DAT8) 
+- [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) 
+- [theano-tutorial](https://github.com/craffel/theano-tutorial) 
+- [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials) 
+- [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) 
+- [Awesome R](https://github.com/qinwf/awesome-R) 
+- [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks) 
+- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
 ## Podcasts
 - ### Podcasts for Beginners:
