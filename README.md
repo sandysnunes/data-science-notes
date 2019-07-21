@@ -21,6 +21,8 @@
 
 [Pandas](https://pandas.pydata.org/)
 
+[Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
+
 [SciPy](https://www.scipy.org/)
 
 [Jupyter](https://jupyter.org/)
