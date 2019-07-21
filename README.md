@@ -49,11 +49,14 @@ rdd.takeSample(False, 5)
 
 ## Books
 
-## Articles
-
 ## Papers
 
+- [Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce.html)
+
 ## Datasets
+
+- [](https://kaggle.com/datasets)
 
 ## Ref Cards
 
@@ -87,6 +90,7 @@ rdd.takeSample(False, 5)
 
 ## GitHub Repos
 
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) 
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources) 
 - [Data science blogs](https://github.com/rushter/data-science-blogs) 
