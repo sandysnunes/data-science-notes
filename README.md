@@ -53,6 +53,23 @@ rdd.takeSample(False, 5)
 
 - [Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 - [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce.html)
+- [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422)
+- [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce.html)
+- [The Google File System](http://research.google.com/archive/gfs.html)
+- [Amazon’s Dynamo](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+- [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable.html)
+- [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+- [Random Forests](http://oz.berkeley.edu/~breiman/randomforest2001.pdf)
+- [A Relational Model of Data for Large Shared Data Banks](http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+- [Map-Reduce for Machine Learning on Multicore](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2006_725.pdf)
+- [Pasting Small Votes for Classification in Large Databases and On-Line</a>Recommendations Item-to-Item Collaborative Filte](http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1999-ML-Breiman-Pasting%20Small%20Votes%20for%20Classification%20in%20Large%20Databases%20and%20On-Line.pdf)
+- [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
+- [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner.html)
+- [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://research.google.com/pubs/pub36971.html)
+- [F1: A Distributed SQL Database That Scales](http://research.google.com/pubs/pub41344.html)
+- [APACHE DRILL: Interactive Ad-Hoc Analysis at Scale](http://online.liebertpub.com/doi/pdfplus/10.1089/big.2013.0011)
+- [A New Approach to Linear Filtering and Prediction Problems](http://www.cs.unc.edu/~welch/kalman/media/pdf/Kalman1960.pdf)
+- [Top 10 algorithms on Data mining</a>](http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 
 ## Datasets
 
