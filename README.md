@@ -4,7 +4,6 @@
 ## Frameworks, Tools and libraries
 
 [Apache Hadoop](https://hadoop.apache.org/)
-
 [Apache Spark](https://spark.apache.org/)
 
 [D3](https://d3js.org/)
