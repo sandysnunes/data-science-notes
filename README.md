@@ -56,7 +56,9 @@ rdd.takeSample(False, 5)
 
 ## Datasets
 
-- [](https://kaggle.com/datasets)
+- [Kaggle datasets](https://kaggle.com/datasets)
+- [Youtube 8M](https://research.google.com/youtube8m/download.html)
+- [Stack Exchange](https://data.stackexchange.com/help)
 
 ## Ref Cards
 
