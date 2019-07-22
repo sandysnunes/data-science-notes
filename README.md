@@ -245,16 +245,6 @@ rdd.takeSample(False, 5)
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
-## Conferences
-- Neural Information Processing Systems ([NIPS](https://nips.cc/))
-- International Conference on Learning Representations ([ICLR](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1))
-- Association for the Advancement of Artificial Intelligence ([AAAI](http://www.aaai.org/Conferences/AAAI/aaai17.php))
-- IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
-- IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
-- International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
-- International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
-- Association for Computational Linguistics ([ACL](http://acl2017.org/))
-
 ## Interview Questions
 - [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
