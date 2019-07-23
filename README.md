@@ -45,7 +45,7 @@ from pyspark.sql import SparkSession
 sc = pyspark.SparkContext('local[*]')
 
 #spark session
-spark = SparkSession.builder.appName('Titanic with Pyspark').getOrCreate()
+spark = SparkSession.builder.appName('App name').getOrCreate()
 
 # do something to prove it works
 rdd = sc.parallelize(range(1000))
