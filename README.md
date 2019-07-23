@@ -182,8 +182,9 @@ Preview | Description
 
 ## Ref Cards
 
- - [Data Science Cheat Sheets
+ - [**Data Science Cheat Sheets**
 ](https://github.com/AdiBro/Data-Science-Resources/tree/master/Cheat-Sheets)
+ - [**Data Science Cheatsheets**](https://github.com/FavioVazquez/ds-cheatsheets)
 
  - [**Tensorflow**](https://github.com/sandysnunes/data-science-notes/blob/master/PDFs/Tensorflow.pdf)<br>
   - [**Keras**](https://github.com/sandysnunes/data-science-notes/blob/master/Keras.jpg)<br>
