@@ -39,8 +39,13 @@ jupyter/pyspark-notebook
 ```python
 
 import pyspark 
+from pyspark.sql import SparkSession
 
+#spark context
 sc = pyspark.SparkContext('local[*]')
+
+#spark session
+spark = SparkSession.builder.appName('App name').getOrCreate()
 
 # do something to prove it works
 rdd = sc.parallelize(range(1000))
