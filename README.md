@@ -125,7 +125,7 @@ Preview | Description
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
 [<img src="https://pbs.twimg.com/media/DZfK4zUXUAEjfsv?format=png" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/) | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
-## Ref Cards
+## Cheat Sheets
 
  - [**AdiBro/Data-Science-Resources**
 ](https://github.com/AdiBro/Data-Science-Resources/tree/master/Cheat-Sheets)
