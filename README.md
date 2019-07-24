@@ -103,6 +103,7 @@ rdd.takeSample(False, 5)
 ## Datasets
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Amazon Reviews 1995-2015](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 - [Kaggle datasets](https://kaggle.com/datasets)
 - [Youtube 8M](https://research.google.com/youtube8m/download.html)
 - [Stack Exchange](https://data.stackexchange.com/help)
