@@ -110,6 +110,8 @@ rdd.takeSample(False, 5)
 - [Airbnb - Listings, Calendar and Reviews](http://insideairbnb.com/get-the-data.html)
 - [Youtube 8M](https://research.google.com/youtube8m/download.html)
 - [Stack Exchange](https://data.stackexchange.com/help)
+- [Neflix Prize](https://www.kaggle.com/netflix-inc/netflix-prize-data)
+- [Reddit Comments](https://archive.org/details/2015_reddit_comments_corpus)
 
 ## Infographic
 
