@@ -1,6 +1,22 @@
 # My notes on Data Science
 
 
+## Table of Contents
+  
+  1. [Frameworks, Tools and libraries](https://github.com/sandysnunes/data-science-notes#frameworks-tools-and-libraries)
+  2. [Snippets](https://github.com/sandysnunes/data-science-notes#snippets)
+  3. [Books](https://github.com/sandysnunes/data-science-notes#books)
+  4. [Papers](https://github.com/sandysnunes/data-science-notes#papers)
+  5. [Datasets](https://github.com/sandysnunes/data-science-notes#datasets)
+  6. [Infographic](https://github.com/sandysnunes/data-science-notes#infographic)
+  7. [Cheat Sheets](https://github.com/sandysnunes/data-science-notes#cheat-sheets)
+  8. [Interview Questions](https://github.com/sandysnunes/data-science-notes#interview-questions)
+  9. [Notebooks](https://github.com/sandysnunes/data-science-notes#notebooks)
+  10. [GitHub Repos](https://github.com/sandysnunes/data-science-notes#github-repos)
+  11. [Podcasts](https://github.com/sandysnunes/data-science-notes#podcasts)
+  12. [Communities](https://github.com/sandysnunes/data-science-notes#communities)
+
+
 ## Frameworks, Tools and libraries
 
 - [Apache Hadoop](https://hadoop.apache.org/)
