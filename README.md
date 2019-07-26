@@ -21,6 +21,7 @@
 
 - [Apache Hadoop](https://hadoop.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
+- [Bokeh](https://bokeh.pydata.org)
 - [D3](https://d3js.org/)
 - [Flink](https://flink.apache.org/)
 - [ggplot](http://ggplot.yhathq.com/)
