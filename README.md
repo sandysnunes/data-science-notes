@@ -134,6 +134,7 @@ rdd.takeSample(False, 5)
 - [Stack Exchange](https://data.stackexchange.com/help)
 - [Neflix Prize](https://www.kaggle.com/netflix-inc/netflix-prize-data)
 - [Reddit Comments](https://archive.org/details/2015_reddit_comments_corpus)
+- [Malhas digitais IBGE](https://mapas.ibge.gov.br/bases-e-referenciais/bases-cartograficas/malhas-digitais.html)
 
 ## Infographic
 
