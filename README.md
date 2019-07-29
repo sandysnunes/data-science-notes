@@ -39,6 +39,10 @@
 - [Seaborn](https://seaborn.pydata.org/)
 
 
+### Visualisation
+
+- [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
+
 ## Snippets
 
 ##### Jupyter - Pyspark
